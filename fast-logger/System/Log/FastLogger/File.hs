@@ -1,5 +1,3 @@
-{-# LANGUAGE Safe #-}
-
 module System.Log.FastLogger.File where
 
 import Control.Monad (unless, when)
